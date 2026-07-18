@@ -6,7 +6,7 @@ Updated: 2026-07-17 America/Denver
 
 - Stage: 3 - Museum Hub, Portal Canvas Shell, and Accessibility Foundation
 - Goal: Deliver the playable, accessible UI for the deterministic vertical slice.
-- Branch/PR: `main`; hibernation checkpoint prepared for GitHub push
+- Branch/PR: `main`; hibernation checkpoint pushed to GitHub
 
 ## Current State
 
@@ -46,7 +46,7 @@ Updated: 2026-07-17 America/Denver
 ## Submission Readiness
 
 - App: Stages 1-3 complete locally; Stage 4 live AI integration is not started.
-- Repository: connected to `liamnester97/openai-buildweek-2026`; hibernation checkpoint pending push.
+- Repository: connected to `liamnester97/openai-buildweek-2026`; hibernation checkpoint pushed in commit `fb2834e`.
 - README: local setup and quality-check instructions complete; submission narrative remains to be written.
 - Video: not started.
 - `/feedback` session ID: capture required before submission.
