@@ -1,8 +1,13 @@
 .DS_Store
 node_modules/
 .env
+.env.local
+.env.*.local
 .venv/
 __pycache__/
 *.pyc
 dist/
 build/
+.next/
+coverage/
+*.tsbuildinfo
